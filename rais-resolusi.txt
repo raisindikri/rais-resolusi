@@ -2,3 +2,5 @@ Rais resolusi
 - konsisten untuk membuat 2x seminggu 
 - Membuat platfure untuk pengelolaan video
 - membuat form diskusi
+- Membuat mersc shop
+- Kolaborasi dengan lebih expert
